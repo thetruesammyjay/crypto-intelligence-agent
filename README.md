@@ -876,7 +876,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - GitHub Issues for bug reports
 - GitHub Discussions for questions
 - Fetch.ai Discord community
-- Twitter: [@SentientSats](https://twitter.com/sentientsats)
+- X Handle: [@SentientSats](https://x.com/TRADELIKEA52246?t=iUaNV8UIa4Q2_spJRaEl2Q&s=09)
 
 **Contact**
 - Email: [MAIL](mailto:sammyjayisthename@gmail.com)
