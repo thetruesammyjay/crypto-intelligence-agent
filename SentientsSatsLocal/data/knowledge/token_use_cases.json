@@ -1,0 +1,230 @@
+{
+  "bitcoin": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "primary_use_case": "Store of Value / Digital Gold",
+    "description": "The first and most well-known cryptocurrency, designed as a decentralized digital currency and store of value",
+    "key_features": [
+      "Limited supply (21 million)",
+      "Proof of Work consensus",
+      "Most secure blockchain",
+      "Highest market cap"
+    ],
+    "use_cases": [
+      "Store of value",
+      "Hedge against inflation",
+      "Cross-border payments",
+      "Portfolio diversification"
+    ],
+    "target_audience": "Conservative investors, institutions, long-term holders"
+  },
+  "ethereum": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "primary_use_case": "Smart Contract Platform",
+    "description": "Leading smart contract platform enabling decentralized applications and DeFi",
+    "key_features": [
+      "Smart contracts",
+      "Proof of Stake (after merge)",
+      "Largest DeFi ecosystem",
+      "NFT marketplace"
+    ],
+    "use_cases": [
+      "DeFi applications",
+      "NFT creation and trading",
+      "DAOs and governance",
+      "Token launches (ERC-20)"
+    ],
+    "target_audience": "DeFi users, developers, NFT enthusiasts"
+  },
+  "cardano": {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "primary_use_case": "Sustainable Smart Contract Platform",
+    "description": "Research-driven blockchain platform focused on sustainability and scalability",
+    "key_features": [
+      "Proof of Stake",
+      "Academic research-based",
+      "Energy efficient",
+      "Formal verification"
+    ],
+    "use_cases": [
+      "Smart contracts",
+      "Identity management",
+      "Supply chain tracking",
+      "Staking rewards"
+    ],
+    "target_audience": "Long-term investors, environmentally conscious users"
+  },
+  "solana": {
+    "name": "Solana",
+    "symbol": "SOL",
+    "primary_use_case": "High-Speed Blockchain",
+    "description": "Ultra-fast blockchain designed for high-throughput applications",
+    "key_features": [
+      "Very high TPS (50,000+)",
+      "Low transaction fees",
+      "Proof of History + PoS",
+      "Growing ecosystem"
+    ],
+    "use_cases": [
+      "DeFi applications",
+      "NFT marketplaces",
+      "Gaming",
+      "High-frequency trading"
+    ],
+    "target_audience": "Traders, gamers, NFT collectors"
+  },
+  "polkadot": {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "primary_use_case": "Blockchain Interoperability",
+    "description": "Multi-chain protocol enabling different blockchains to communicate",
+    "key_features": [
+      "Parachain architecture",
+      "Cross-chain transfers",
+      "Shared security",
+      "Governance system"
+    ],
+    "use_cases": [
+      "Cross-chain DeFi",
+      "Parachain auctions",
+      "Governance participation",
+      "Staking"
+    ],
+    "target_audience": "Technical users, developers, long-term investors"
+  },
+  "chainlink": {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "primary_use_case": "Decentralized Oracle Network",
+    "description": "Connects smart contracts with real-world data",
+    "key_features": [
+      "Decentralized oracles",
+      "Real-world data feeds",
+      "Widely integrated",
+      "Hybrid smart contracts"
+    ],
+    "use_cases": [
+      "Price feeds for DeFi",
+      "Sports data",
+      "Weather data",
+      "Random number generation"
+    ],
+    "target_audience": "DeFi protocols, developers"
+  },
+  "uniswap": {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "primary_use_case": "Decentralized Exchange",
+    "description": "Leading decentralized exchange protocol on Ethereum",
+    "key_features": [
+      "Automated market maker",
+      "No order books",
+      "Permissionless listing",
+      "Governance token"
+    ],
+    "use_cases": [
+      "Token swapping",
+      "Liquidity provision",
+      "Governance voting",
+      "Yield farming"
+    ],
+    "target_audience": "DeFi users, liquidity providers, traders"
+  },
+  "aave": {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "primary_use_case": "DeFi Lending Protocol",
+    "description": "Decentralized lending and borrowing platform",
+    "key_features": [
+      "Flash loans",
+      "Variable and stable rates",
+      "Multiple assets",
+      "Governance"
+    ],
+    "use_cases": [
+      "Lending crypto",
+      "Borrowing against collateral",
+      "Flash loans",
+      "Yield generation"
+    ],
+    "target_audience": "DeFi users, yield seekers"
+  },
+  "polygon": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "primary_use_case": "Ethereum Scaling Solution",
+    "description": "Layer 2 scaling solution for Ethereum",
+    "key_features": [
+      "Low gas fees",
+      "Fast transactions",
+      "Ethereum compatible",
+      "Growing ecosystem"
+    ],
+    "use_cases": [
+      "Cheap DeFi transactions",
+      "NFT minting",
+      "Gaming",
+      "Micropayments"
+    ],
+    "target_audience": "Ethereum users seeking lower fees"
+  },
+  "avalanche": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "primary_use_case": "High-Performance Smart Contracts",
+    "description": "Fast, low-cost platform for DeFi and enterprise applications",
+    "key_features": [
+      "Sub-second finality",
+      "EVM compatible",
+      "Subnet architecture",
+      "Low fees"
+    ],
+    "use_cases": [
+      "DeFi applications",
+      "Enterprise blockchains",
+      "Asset tokenization",
+      "Staking"
+    ],
+    "target_audience": "DeFi users, enterprises, developers"
+  },
+  "cosmos": {
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "primary_use_case": "Internet of Blockchains",
+    "description": "Network of independent blockchains connected via IBC",
+    "key_features": [
+      "Inter-Blockchain Communication",
+      "Cosmos SDK",
+      "Tendermint consensus",
+      "Sovereignty"
+    ],
+    "use_cases": [
+      "Cross-chain transfers",
+      "Building custom blockchains",
+      "Staking",
+      "Governance"
+    ],
+    "target_audience": "Developers, blockchain projects"
+  },
+  "litecoin": {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "primary_use_case": "Digital Silver / Payments",
+    "description": "Early Bitcoin fork designed for faster, cheaper transactions",
+    "key_features": [
+      "Faster block times",
+      "Lower fees than Bitcoin",
+      "Established network",
+      "MWEB privacy"
+    ],
+    "use_cases": [
+      "Peer-to-peer payments",
+      "Merchant transactions",
+      "Store of value",
+      "Testing ground for Bitcoin"
+    ],
+    "target_audience": "Payment users, Bitcoin holders"
+  }
+}

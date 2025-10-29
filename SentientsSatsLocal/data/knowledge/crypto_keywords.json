@@ -1,0 +1,92 @@
+{
+  "cryptocurrencies": {
+    "bitcoin": ["bitcoin", "btc", "₿"],
+    "ethereum": ["ethereum", "eth", "ether"],
+    "cardano": ["cardano", "ada"],
+    "solana": ["solana", "sol"],
+    "polkadot": ["polkadot", "dot"],
+    "ripple": ["ripple", "xrp"],
+    "dogecoin": ["dogecoin", "doge"],
+    "avalanche": ["avalanche", "avax"],
+    "polygon": ["polygon", "matic"],
+    "chainlink": ["chainlink", "link"],
+    "uniswap": ["uniswap", "uni"],
+    "litecoin": ["litecoin", "ltc"],
+    "cosmos": ["cosmos", "atom"],
+    "monero": ["monero", "xmr"],
+    "stellar": ["stellar", "xlm"],
+    "algorand": ["algorand", "algo"],
+    "tron": ["tron", "trx"],
+    "eos": ["eos"],
+    "aave": ["aave"],
+    "compound": ["compound", "comp"],
+    "maker": ["maker", "mkr", "dai"],
+    "tezos": ["tezos", "xtz"],
+    "binance_coin": ["binance coin", "bnb"],
+    "shiba_inu": ["shiba inu", "shib"],
+    "near": ["near protocol", "near"],
+    "aptos": ["aptos", "apt"],
+    "arbitrum": ["arbitrum", "arb"],
+    "optimism": ["optimism", "op"]
+  },
+  "query_types": {
+    "price": ["price", "cost", "value", "worth", "trading at", "current price", "how much"],
+    "news": ["news", "latest", "updates", "headlines", "articles", "what's happening"],
+    "strategy": ["strategy", "invest", "investment", "grow", "portfolio", "recommend", "best way", "how to"],
+    "trending": ["trending", "top", "gainers", "losers", "movers", "hot", "popular"],
+    "comparison": ["compare", "vs", "versus", "difference", "better", "which one"],
+    "sentiment": ["sentiment", "feeling", "mood", "outlook", "bullish", "bearish"],
+    "risk": ["risk", "safe", "risky", "volatility", "volatile", "stable"],
+    "help": ["help", "how", "what", "explain", "guide", "tutorial"]
+  },
+  "market_terms": {
+    "bullish": ["bullish", "bull", "moon", "pump", "rally", "surge", "spike"],
+    "bearish": ["bearish", "bear", "dump", "crash", "dip", "drop", "fall"],
+    "neutral": ["sideways", "consolidation", "range", "stable", "flat"],
+    "volatility": ["volatile", "volatility", "swing", "fluctuation"],
+    "volume": ["volume", "trading volume", "liquidity"],
+    "market_cap": ["market cap", "marketcap", "mcap", "capitalization"],
+    "ath": ["all-time high", "ath", "record high"],
+    "atl": ["all-time low", "atl", "record low"]
+  },
+  "defi_terms": {
+    "staking": ["staking", "stake", "validator", "delegation"],
+    "yield_farming": ["yield farming", "farming", "liquidity mining"],
+    "liquidity": ["liquidity", "liquidity pool", "lp", "provide liquidity"],
+    "lending": ["lending", "lend", "borrow", "loan"],
+    "dex": ["dex", "decentralized exchange", "swap"],
+    "apy": ["apy", "apr", "yield", "returns", "interest"],
+    "impermanent_loss": ["impermanent loss", "il", "divergence loss"],
+    "smart_contract": ["smart contract", "contract", "protocol"],
+    "gas_fees": ["gas", "gas fees", "transaction fees", "network fees"]
+  },
+  "investment_strategies": {
+    "hodl": ["hodl", "hold", "long-term", "buy and hold"],
+    "dca": ["dca", "dollar cost averaging", "regular buying"],
+    "swing_trading": ["swing trading", "swing", "short-term"],
+    "day_trading": ["day trading", "day trade", "intraday"],
+    "diversification": ["diversify", "diversification", "spread", "allocation"],
+    "rebalancing": ["rebalance", "rebalancing", "adjust portfolio"]
+  },
+  "risk_levels": {
+    "low_risk": ["safe", "low risk", "conservative", "stable", "secure"],
+    "medium_risk": ["moderate", "medium risk", "balanced"],
+    "high_risk": ["risky", "high risk", "aggressive", "speculative", "volatile"]
+  },
+  "time_frames": {
+    "short_term": ["short term", "short-term", "quick", "fast", "immediate"],
+    "medium_term": ["medium term", "medium-term", "moderate"],
+    "long_term": ["long term", "long-term", "hold", "hodl", "years"]
+  },
+  "actions": {
+    "buy": ["buy", "purchase", "acquire", "get", "invest in"],
+    "sell": ["sell", "dump", "exit", "liquidate"],
+    "hold": ["hold", "hodl", "keep", "maintain"],
+    "trade": ["trade", "trading", "swap", "exchange"]
+  },
+  "sentiment_indicators": {
+    "positive": ["good", "great", "excellent", "bullish", "up", "gain", "profit", "success"],
+    "negative": ["bad", "poor", "terrible", "bearish", "down", "loss", "fail", "crash"],
+    "neutral": ["okay", "fine", "average", "normal", "stable", "sideways"]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "ethereum": {
+    "name": "Ethereum 2.0 Staking",
+    "symbol": "ETH",
+    "apy": "3.5-4.5%",
+    "risk": "low",
+    "minimum": "32 ETH (or 0.01 ETH with pools)",
+    "lock_period": "Flexible with pools",
+    "platforms": ["Lido", "Rocket Pool", "Coinbase", "Kraken", "Binance"],
+    "description": "Stake ETH to help secure the Ethereum network and earn rewards",
+    "pros": [
+      "Low risk with established network",
+      "Liquid staking options available",
+      "No lock-up period with pools"
+    ],
+    "cons": [
+      "Lower APY compared to other chains",
+      "32 ETH requirement for solo staking"
+    ]
+  },
+  "cardano": {
+    "name": "Cardano Staking",
+    "symbol": "ADA",
+    "apy": "4-6%",
+    "risk": "low",
+    "minimum": "10 ADA",
+    "lock_period": "None (liquid staking)",
+    "platforms": ["Daedalus", "Yoroi", "Adalite", "Binance", "Kraken"],
+    "description": "Delegate ADA to stake pools and earn rewards",
+    "pros": [
+      "No lock-up period",
+      "Low minimum requirement",
+      "Liquid staking"
+    ],
+    "cons": [
+      "Moderate APY",
+      "Network still developing"
+    ]
+  },
+  "polkadot": {
+    "name": "Polkadot Staking",
+    "symbol": "DOT",
+    "apy": "12-14%",
+    "risk": "medium",
+    "minimum": "120 DOT (or 1 DOT with pools)",
+    "lock_period": "28 days unbonding",
+    "platforms": ["Polkadot.js", "Fearless Wallet", "Kraken", "Binance"],
+    "description": "Nominate validators to secure the Polkadot network",
+    "pros": [
+      "High APY",
+      "Strong technical foundation",
+      "Active development"
+    ],
+    "cons": [
+      "28-day unbonding period",
+      "Higher minimum for direct staking"
+    ]
+  },
+  "solana": {
+    "name": "Solana Staking",
+    "symbol": "SOL",
+    "apy": "7-9%",
+    "risk": "medium",
+    "minimum": "0.01 SOL",
+    "lock_period": "2-3 days unbonding",
+    "platforms": ["Phantom", "Solflare", "Marinade Finance", "Binance", "Coinbase"],
+    "description": "Delegate SOL to validators and earn staking rewards",
+    "pros": [
+      "Good APY",
+      "Low minimum",
+      "Fast unbonding"
+    ],
+    "cons": [
+      "Network stability concerns",
+      "Medium risk due to past outages"
+    ]
+  },
+  "cosmos": {
+    "name": "Cosmos Staking",
+    "symbol": "ATOM",
+    "apy": "15-20%",
+    "risk": "medium",
+    "minimum": "0.1 ATOM",
+    "lock_period": "21 days unbonding",
+    "platforms": ["Keplr", "Cosmostation", "Binance", "Kraken"],
+    "description": "Delegate ATOM to validators in the Cosmos Hub",
+    "pros": [
+      "Very high APY",
+      "Low minimum",
+      "Interoperability focus"
+    ],
+    "cons": [
+      "21-day unbonding period",
+      "Higher inflation rate"
+    ]
+  },
+  "avalanche": {
+    "name": "Avalanche Staking",
+    "symbol": "AVAX",
+    "apy": "8-10%",
+    "risk": "medium",
+    "minimum": "25 AVAX",
+    "lock_period": "2 weeks minimum",
+    "platforms": ["Avalanche Wallet", "Binance", "Coinbase"],
+    "description": "Stake AVAX to secure the Avalanche network",
+    "pros": [
+      "Good APY",
+      "Fast finality",
+      "Growing ecosystem"
+    ],
+    "cons": [
+      "Higher minimum requirement",
+      "Lock-up period required"
+    ]
+  },
+  "algorand": {
+    "name": "Algorand Staking",
+    "symbol": "ALGO",
+    "apy": "5-7%",
+    "risk": "low",
+    "minimum": "1 ALGO",
+    "lock_period": "None",
+    "platforms": ["Algorand Wallet", "Pera Wallet", "Binance", "Coinbase"],
+    "description": "Hold ALGO in your wallet to automatically earn rewards",
+    "pros": [
+      "No lock-up period",
+      "Very low minimum",
+      "Automatic rewards"
+    ],
+    "cons": [
+      "Moderate APY",
+      "Centralization concerns"
+    ]
+  },
+  "tezos": {
+    "name": "Tezos Baking",
+    "symbol": "XTZ",
+    "apy": "5-6%",
+    "risk": "low",
+    "minimum": "1 XTZ",
+    "lock_period": "None",
+    "platforms": ["Temple Wallet", "Kukai", "Binance", "Kraken"],
+    "description": "Delegate XTZ to bakers and earn rewards",
+    "pros": [
+      "No lock-up period",
+      "Low minimum",
+      "On-chain governance"
+    ],
+    "cons": [
+      "Lower APY",
+      "Less mainstream adoption"
+    ]
+  }
+}

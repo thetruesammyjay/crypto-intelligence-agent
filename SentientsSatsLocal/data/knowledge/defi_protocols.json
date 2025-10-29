@@ -1,0 +1,242 @@
+{
+  "uniswap": {
+    "name": "Uniswap V3",
+    "type": "DEX / Liquidity Provision",
+    "chain": "Ethereum, Polygon, Arbitrum, Optimism",
+    "apy": "15-25%",
+    "risk": "medium",
+    "description": "Provide liquidity to trading pairs and earn fees",
+    "url": "https://app.uniswap.org",
+    "pros": [
+      "High volume and liquidity",
+      "Concentrated liquidity feature",
+      "Multiple chain support"
+    ],
+    "cons": [
+      "Impermanent loss risk",
+      "Gas fees on Ethereum",
+      "Requires active management"
+    ],
+    "requirements": [
+      "Equal value of two tokens",
+      "Understanding of impermanent loss",
+      "Active position management"
+    ]
+  },
+  "aave": {
+    "name": "Aave",
+    "type": "Lending Protocol",
+    "chain": "Ethereum, Polygon, Avalanche, Arbitrum",
+    "apy": "4-8%",
+    "risk": "low",
+    "description": "Lend crypto assets and earn interest",
+    "url": "https://app.aave.com",
+    "pros": [
+      "Low risk lending",
+      "Multiple assets supported",
+      "Flash loans available"
+    ],
+    "cons": [
+      "Lower APY than other DeFi",
+      "Smart contract risk",
+      "Variable interest rates"
+    ],
+    "requirements": [
+      "Crypto assets to lend",
+      "Wallet connection",
+      "Gas fees for transactions"
+    ]
+  },
+  "compound": {
+    "name": "Compound",
+    "type": "Lending Protocol",
+    "chain": "Ethereum",
+    "apy": "3-7%",
+    "risk": "low",
+    "description": "Supply assets to earn interest automatically",
+    "url": "https://app.compound.finance",
+    "pros": [
+      "Established protocol",
+      "Automatic interest accrual",
+      "Governance token rewards"
+    ],
+    "cons": [
+      "Lower APY",
+      "High gas fees",
+      "Limited to Ethereum"
+    ],
+    "requirements": [
+      "Supported crypto assets",
+      "Ethereum wallet",
+      "Gas fees"
+    ]
+  },
+  "curve": {
+    "name": "Curve Finance",
+    "type": "Stablecoin DEX",
+    "chain": "Ethereum, Polygon, Arbitrum, Optimism",
+    "apy": "5-15%",
+    "risk": "low-medium",
+    "description": "Provide liquidity to stablecoin pools",
+    "url": "https://curve.fi",
+    "pros": [
+      "Low impermanent loss with stablecoins",
+      "CRV token rewards",
+      "Multiple chains"
+    ],
+    "cons": [
+      "Complex UI for beginners",
+      "Lock-up periods for max rewards",
+      "Smart contract risk"
+    ],
+    "requirements": [
+      "Stablecoins or similar assets",
+      "Understanding of liquidity provision",
+      "Gas fees"
+    ]
+  },
+  "pancakeswap": {
+    "name": "PancakeSwap",
+    "type": "DEX / Yield Farming",
+    "chain": "BNB Chain",
+    "apy": "20-50%",
+    "risk": "medium-high",
+    "description": "Provide liquidity and farm CAKE tokens",
+    "url": "https://pancakeswap.finance",
+    "pros": [
+      "High APY",
+      "Low gas fees on BSC",
+      "Multiple farming options"
+    ],
+    "cons": [
+      "Higher risk",
+      "Token price volatility",
+      "Impermanent loss"
+    ],
+    "requirements": [
+      "BNB for gas fees",
+      "Tokens for liquidity pairs",
+      "Risk tolerance"
+    ]
+  },
+  "convex": {
+    "name": "Convex Finance",
+    "type": "Yield Optimizer",
+    "chain": "Ethereum",
+    "apy": "8-20%",
+    "risk": "medium",
+    "description": "Boost Curve yields with Convex",
+    "url": "https://www.convexfinance.com",
+    "pros": [
+      "Boosted Curve rewards",
+      "No lock-up required",
+      "CVX token rewards"
+    ],
+    "cons": [
+      "Additional smart contract layer",
+      "Dependent on Curve",
+      "High gas fees"
+    ],
+    "requirements": [
+      "Curve LP tokens",
+      "Understanding of Curve",
+      "Gas fees"
+    ]
+  },
+  "yearn": {
+    "name": "Yearn Finance",
+    "type": "Yield Aggregator",
+    "chain": "Ethereum, Fantom, Arbitrum",
+    "apy": "5-15%",
+    "risk": "medium",
+    "description": "Automated yield farming strategies",
+    "url": "https://yearn.finance",
+    "pros": [
+      "Automated strategy optimization",
+      "Professional management",
+      "Multiple vaults"
+    ],
+    "cons": [
+      "Management fees",
+      "Complex strategies",
+      "Smart contract risk"
+    ],
+    "requirements": [
+      "Supported assets",
+      "Trust in automated strategies",
+      "Gas fees"
+    ]
+  },
+  "lido": {
+    "name": "Lido Finance",
+    "type": "Liquid Staking",
+    "chain": "Ethereum, Solana, Polygon",
+    "apy": "3.5-4.5%",
+    "risk": "low",
+    "description": "Liquid staking for Ethereum and other chains",
+    "url": "https://lido.fi",
+    "pros": [
+      "Liquid staking tokens",
+      "No minimum requirement",
+      "Use staked assets in DeFi"
+    ],
+    "cons": [
+      "Smart contract risk",
+      "Slight discount on stETH",
+      "Centralization concerns"
+    ],
+    "requirements": [
+      "ETH or other supported assets",
+      "Wallet connection",
+      "Gas fees"
+    ]
+  },
+  "rocket_pool": {
+    "name": "Rocket Pool",
+    "type": "Decentralized Staking",
+    "chain": "Ethereum",
+    "apy": "3.5-4.5%",
+    "risk": "low",
+    "description": "Decentralized Ethereum staking protocol",
+    "url": "https://rocketpool.net",
+    "pros": [
+      "More decentralized than Lido",
+      "Liquid staking with rETH",
+      "No minimum requirement"
+    ],
+    "cons": [
+      "Smaller liquidity than Lido",
+      "Smart contract risk",
+      "Gas fees"
+    ],
+    "requirements": [
+      "ETH to stake",
+      "Ethereum wallet",
+      "Gas fees"
+    ]
+  },
+  "gmx": {
+    "name": "GMX",
+    "type": "Perpetual DEX",
+    "chain": "Arbitrum, Avalanche",
+    "apy": "15-30%",
+    "risk": "medium-high",
+    "description": "Provide liquidity for perpetual trading",
+    "url": "https://gmx.io",
+    "pros": [
+      "High APY from trading fees",
+      "GLP token for liquidity",
+      "Low gas fees"
+    ],
+    "cons": [
+      "Exposure to multiple assets",
+      "Trader PnL affects returns",
+      "Complex mechanics"
+    ],
+    "requirements": [
+      "Understanding of perpetuals",
+      "Risk tolerance",
+      "Assets for GLP"
+    ]
+  }
+}
